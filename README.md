@@ -1,6 +1,6 @@
 # EventLink
 
-EventLink is a mobile app designed to keep rural and small-town communities connected and informed by providing real-time access to local events, news, and announcements—all in one place! Created with the aim of bridging communication gaps in communities like Mthatha, EventLink empowers residents to stay in the loop and engage more fully with their community.
+EventLink is a mobile app designed to keep rural and small-town communities connected and informed by providing real-time access to local events, news, and announcements all in one place! Created with the aim of bridging communication gaps in communities like Mthatha, EventLink empowers residents to stay in the loop and engage more fully with their community.
 
 ---
 
